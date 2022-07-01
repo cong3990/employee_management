@@ -1,0 +1,46 @@
+[
+  {
+    "Mã số": "NV001",
+    "Mã bộ phận": "SALE001",
+    "Chức vụ": "Nhân viên",
+    "Họ và tên": "Nguyễn Bá Ngọc Dũng",
+    "Hệ số lương": 400000,
+    "Số ngày làm việc": 27,
+    "Hệ số hiệu quả": 1,
+    "Thưởng": 200000,
+    "Số ngày đi muộn": 1
+  },
+  {
+    "Mã số": "NV003",
+    "Mã bộ phận": "SALEVIP",
+    "Chức vụ": "Quản lý",
+    "Họ và tên": "Chandler Bing",
+    "Hệ số lương": 700000,
+    "Số ngày làm việc": 23,
+    "Hệ số hiệu quả": 2.0,
+    "Thưởng": 1000000,
+    "Số ngày đi muộn": 0
+  },
+  {
+    "Mã số": "NV005",
+    "Mã bộ phận": "SALE001",
+    "Chức vụ": "Quản lý",
+    "Họ và tên": "Awesome",
+    "Hệ số lương": 1000000,
+    "Số ngày làm việc": 26,
+    "Hệ số hiệu quả": 2.0,
+    "Thưởng": 500000,
+    "Số ngày đi muộn": 1
+  },
+  {
+    "Mã số": "sca",
+    "Mã bộ phận": "qdw",
+    "Chức vụ": "Nhân viên",
+    "Họ và tên": "cong",
+    "Hệ số lương": 123,
+    "Số ngày làm việc": 123,
+    "Hệ số hiệu quả": 123.0,
+    "Thưởng": 123,
+    "Số ngày đi muộn": 123
+  }
+]
